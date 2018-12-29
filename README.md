@@ -10,8 +10,8 @@
 
 ## favourite erd
 
-![user erd](./public/images/favourite.png)
+![favourite erd](./public/images/favourite.png)
 
 ## feedback erd
 
-![user erd](./public/images/feedback.png)
+![feedback erd](./public/images/feedback.png)
