@@ -1,6 +1,9 @@
 # Grow server side API
 Below is the complete guide to help you get through grow api
 
+##Base url
+https://grow-localhost.herokuapp.com/api/v1/
+
 ## service
 
 ### service erd
